@@ -111,10 +111,3 @@ Gerencia todo o sistema:
 - Exibe estado do sistema
 - Calcula estatísticas finais
 
-## Autor
-
-Simulador SO - Trabalho de Sistemas Operacionais
-
-## Licença
-
-Uso acadêmico
