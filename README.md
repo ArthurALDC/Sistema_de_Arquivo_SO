@@ -1,6 +1,6 @@
 # Simulador de Escalonamento de Processos com Gerenciamento de E/S
 
-## Descrição
+## Descrição do trabalho
 
 Este projeto implementa um simulador de sistema operacional que gerencia:
 - **Escalonamento de processos** na CPU (algoritmo Round-Robin/Alternância Circular)
